@@ -1,8 +1,3 @@
-<!--Presentation Gif  -->
-<div align="center">
-    <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey...+I'm;Alex+ Suárez;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-</div>
-
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>I am a passionate developer and digital creator with a strong focus on 3D modeling, Software & Game Development. My journey in technology began with a curiosity for how things work, which evolved into a deep love for building immersive experiences that engage and inspire users. With a background in Computer Science, I strive to push the boundaries of what’s possible in the digital realm. I believe in continuous learning and enjoy collaborating with others to bring innovative ideas to life.</p>
@@ -21,15 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=ASuarez&style=for-the-badge" alt="Profile views" />
 </div>
 
-<!-- My Commits -->
+<!-- My Commits
 <div align="center">
   <h2>
     <img src="icons/github-icon.svg" alt="Icono SVG" style="width: 25px; height: 25px; margin-left: 10px; vertical-align: middle; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
     <span>Github Commits</span>
   </h2>
     <p>This section highlights my daily activity and showcases the repositories I'm currently working on. Each commit reflects progress or fixes in ongoing projects, emphasizing my focus on continuous improvement and collaborative development. Check out the commit messages for a detailed look at what I've been working on recently.</p>
-  <img src="" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-</div>
+</div> -->
 
 <!-- Programming Languages -->
 <div align="center">
