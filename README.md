@@ -66,8 +66,7 @@
   </h2>
   <p>I work with some frameworks to enhance my development process and create robust applications. Each framework brings unique features that streamline workflows, improve performance, and facilitate collaboration. I’m adept at using these tools to build scalable and maintainable solutions.</p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=node.js&logoColor=white
-" alt="NodeJS"/>
+<img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
