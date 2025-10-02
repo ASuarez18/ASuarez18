@@ -13,7 +13,7 @@
   </a>
   <a href="https://github.com/ASuarez18/ASuarez18" target="_blank">
   <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>****
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ASuarez&style=for-the-badge" alt="Profile views" />
 </div>
 
