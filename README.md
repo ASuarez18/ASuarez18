@@ -1,29 +1,26 @@
-<!--
-TODO: Change text colors
- -->
-
+<!-- About me -->
 <div align="center" >
-  <h2 style="color:#2783E6;"><img src="icons/user-icon1.svg" alt="Job Experience Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(47%) sepia(96%) saturate(2592%) hue-rotate(193deg) brightness(101%) contrast(101%);"/>  About Me</h2>
+  <h2 style="color:#2783E6;"><img src="icons/user-icon1.svg" alt="About Me Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle"/>  About Me</h2>
   <p>I am a passionate developer and digital creator with a strong focus on 3D modeling, Software & Game Development. My journey in technology began with a curiosity for how things work, which evolved into a deep love for building immersive experiences that engage and inspire users. With a background in Computer Science, I strive to push the boundaries of what’s possible in the digital realm. I believe in continuous learning and enjoy collaborating with others to bring innovative ideas to life.</p>
 </div>
 
 <!-- Connect with me  -->
 <div align="center">
-  <h2 style="color:#14B8A6; padding: 10px 0px;"><img src="icons/global-icon.svg" alt="Job Experience Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(56%) sepia(90%) saturate(1026%) hue-rotate(142deg) brightness(91%) contrast(101%);"/> Connect with Me!</h2>
+  <h2 style="color:#14B8A6; padding: 10px 0px;"><img src="icons/global-icon.svg" alt="Connect With Me Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle;"/> Connect with Me!</h2>
   <!-- Replace href with your links -->
   <a href="https://www.linkedin.com/in/alejandrosuarezgonzalez/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ASuarez18/ASuarez18" target="_blank">
   <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>
+  </a>****
   <img src="https://komarev.com/ghpvc/?username=ASuarez&style=for-the-badge" alt="Profile views" />
 </div>
 
+<!-- Job experience -->
 <div align="center">
-  
   <h2 style="color:#CD7F32;">
-    <img src="icons/briefcase-icon.svg" alt="Job Experience Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(55%) sepia(20%) saturate(1250%) hue-rotate(359deg) brightness(90%) contrast(90%);"/>
+    <img src="icons/briefcase-icon.svg" alt="Job Experience Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle;"/>
     <span>Professional Journey</span>
   </h2>
   <p>My professional path has been driven by a passion for creating engaging digital experiences across web development, AI technologies, and game development.</p>
@@ -60,7 +57,7 @@ TODO: Change text colors
 <!-- Programming Languages -->
 <div align="center">
   <h2 style="color:#06B6D4;">
-    <img src="icons/programming-icon.svg" alt="Programming Language Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(64%) sepia(98%) saturate(1266%) hue-rotate(151deg) brightness(97%) contrast(101%);"/>
+    <img src="icons/programming-icon.svg" alt="Programming Language Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle;"/>
     <span>Programming Languages</span>
   </h2>
   <p>I have experience working with a diverse range of programming languages, each suited to solving different challenges. Whether it's building complex systems, developing interactive applications, or scripting automated processes, I leverage the strengths of each language to deliver effective and efficient solutions.</p>
@@ -68,7 +65,6 @@ TODO: Change text colors
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <!-- CSS -->
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
-
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <!-- C++ -->
@@ -83,7 +79,7 @@ TODO: Change text colors
 <!-- Frameworks -->
 <div align="center">
   <h2 style="color:#8a80ff;">
-    <img src="icons/framework-icon.svg" alt="Framework Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(28%) sepia(91%) saturate(2427%) hue-rotate(235deg) brightness(140%) contrast(106%);"/>
+    <img src="icons/framework-icon.svg" alt="Framework Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle;"/>
     <span>Frameworks</span>
   </h2>
   <p>I work with some frameworks to enhance my development process and create robust applications. Each framework brings unique features that streamline workflows, improve performance, and facilitate collaboration. I’m adept at using these tools to build scalable and maintainable solutions.</p>
@@ -95,7 +91,7 @@ TODO: Change text colors
 <!-- 3D Technologies -->
 <div align="center">
   <h2 style="color:#FF6B35;">
-    <img src="icons/3d-icon.svg" alt="3D Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(58%) sepia(81%) saturate(2194%) hue-rotate(360deg) brightness(102%) contrast(101%);"/>
+    <img src="icons/3d-icon.svg" alt="3D Technologies Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle;"/>
     <span>3D Technologies</span>
   </h2>
   <p>In the dynamic fields of 3D modeling, Virtual Reality (VR), and Augmented Reality (AR), I leverage my expertise to bring digital creations to life. Using cutting-edge tools, I sculpt, render, and animate with precision, crafting immersive VR and AR experiences that seamlessly blend the virtual and real worlds.</p>
@@ -107,7 +103,7 @@ TODO: Change text colors
 <!-- Github Stats -->
 <div align="center">
 <h2 style="color:#FFFFFF;">
-  <img src="icons/github-icon.svg" alt="GitHub Icon" style="width: 25px; height: 25px; margin-left: 10px; vertical-align: middle; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
+  <img src="icons/github-icon.svg" alt="GitHub Icon" style="width: 25px; height: 25px; margin-left: 10px; vertical-align: middle;"/>
   <span>Github Stats</span>
 </h2>
 <p>Take a look at my GitHub stats to see how I balance code, creativity, and collaborations! Explore the milestones of my digital journey and see what I've been working on.</p>
@@ -117,7 +113,6 @@ TODO: Change text colors
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=asuarez18&theme=merko" alt="Alex's Contribution Streak"/></td>
     </tr>
  </table>
-
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asuarez18&theme=github_dark" alt="Alex's GitHub Stats"/></td>
