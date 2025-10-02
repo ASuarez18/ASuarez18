@@ -1,13 +1,17 @@
-<div align="center">
-  <h2>🚀 About Me</h2>
+<!--
+TODO: Change text colors
+ -->
+
+<div align="center" >
+  <h2 style="color:#2783E6;"><img src="icons/user-icon1.svg" alt="Job Experience Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(47%) sepia(96%) saturate(2592%) hue-rotate(193deg) brightness(101%) contrast(101%);"/>  About Me</h2>
   <p>I am a passionate developer and digital creator with a strong focus on 3D modeling, Software & Game Development. My journey in technology began with a curiosity for how things work, which evolved into a deep love for building immersive experiences that engage and inspire users. With a background in Computer Science, I strive to push the boundaries of what’s possible in the digital realm. I believe in continuous learning and enjoy collaborating with others to bring innovative ideas to life.</p>
 </div>
 
 <!-- Connect with me  -->
 <div align="center">
-  <h2>🌐 Connect with Me!</h2>
+  <h2 style="color:#14B8A6; padding: 10px 0px;"><img src="icons/global-icon.svg" alt="Job Experience Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(56%) sepia(90%) saturate(1026%) hue-rotate(142deg) brightness(91%) contrast(101%);"/> Connect with Me!</h2>
   <!-- Replace href with your links -->
-  <a href="https://www.linkedin.com/in/alejandrosuarezgonzalez//">
+  <a href="https://www.linkedin.com/in/alejandrosuarezgonzalez/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ASuarez18/ASuarez18" target="_blank">
@@ -16,46 +20,70 @@
   <img src="https://komarev.com/ghpvc/?username=ASuarez&style=for-the-badge" alt="Profile views" />
 </div>
 
-<!-- My Commits
 <div align="center">
-  <h2>
-    <img src="icons/github-icon.svg" alt="Icono SVG" style="width: 25px; height: 25px; margin-left: 10px; vertical-align: middle; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
-    <span>Github Commits</span>
+  
+  <h2 style="color:#CD7F32;">
+    <img src="icons/briefcase-icon.svg" alt="Job Experience Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(55%) sepia(20%) saturate(1250%) hue-rotate(359deg) brightness(90%) contrast(90%);"/>
+    <span>Professional Journey</span>
   </h2>
-    <p>This section highlights my daily activity and showcases the repositories I'm currently working on. Each commit reflects progress or fixes in ongoing projects, emphasizing my focus on continuous improvement and collaborative development. Check out the commit messages for a detailed look at what I've been working on recently.</p>
-</div> -->
+  <p>My professional path has been driven by a passion for creating engaging digital experiences across web development, AI technologies, and game development.</p>
+  <table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Front-End Developer</h3>
+      <b>Meliora AI</b><br/>
+      Project Lead<br/>
+      <i>Feb 2025 - Jun 2025</i><br/><br/>
+      Led full-featured accounting app<br/>
+      with React & Tailwind CSS
+    </td>
+    <td align="center" width="33%">
+      <h3>AI Model Trainer</h3>
+      <b>Outlier AI</b><br/>
+      Remote<br/>
+      <i>Dec 2024 - Feb 2025</i><br/><br/>
+      Evaluated & improved<br/>
+      language model outputs
+    </td>
+    <td align="center" width="33%">
+      <h3>Student Group Founder</h3>
+      <b>Noob Games</b><br/>
+      Founder<br/>
+      <i>Aug 2022 - Jun 2023</i><br/><br/>
+      Founded gaming community<br/>
+      & delivered training courses
+    </td>
+  </tr>
+</table>
+</div>
 
 <!-- Programming Languages -->
 <div align="center">
-  <h2>
-    <img src="icons/programming-icon.svg" alt="Programming Language Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
+  <h2 style="color:#06B6D4;">
+    <img src="icons/programming-icon.svg" alt="Programming Language Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(64%) sepia(98%) saturate(1266%) hue-rotate(151deg) brightness(97%) contrast(101%);"/>
     <span>Programming Languages</span>
   </h2>
   <p>I have experience working with a diverse range of programming languages, each suited to solving different challenges. Whether it's building complex systems, developing interactive applications, or scripting automated processes, I leverage the strengths of each language to deliver effective and efficient solutions.</p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-6A0083?style=for-the-badge" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <!-- HTML -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
 
-<!-- 3D Technologies -->
-<div align="center">
-  <h2>
-    <img src="icons/3d-icon.svg" alt="3D Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
-    <span>3D Technologies</span>
-  </h2>
-  <p>In the dynamic fields of 3D modeling, Virtual Reality (VR), and Augmented Reality (AR), I leverage my expertise to bring digital creations to life. Using cutting-edge tools, I sculpt, render, and animate with precision, crafting immersive VR and AR experiences that seamlessly blend the virtual and real worlds.</p>
-  <!-- Replace with your 3D/VR/AR skills -->
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B" alt="C++"/>
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
 <!-- Frameworks -->
 <div align="center">
-  <h2>
-    <img src="icons/framework-icon.svg" alt="Framework Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
+  <h2 style="color:#8a80ff;">
+    <img src="icons/framework-icon.svg" alt="Framework Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(28%) sepia(91%) saturate(2427%) hue-rotate(235deg) brightness(140%) contrast(106%);"/>
     <span>Frameworks</span>
   </h2>
   <p>I work with some frameworks to enhance my development process and create robust applications. Each framework brings unique features that streamline workflows, improve performance, and facilitate collaboration. I’m adept at using these tools to build scalable and maintainable solutions.</p>
@@ -64,9 +92,21 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
+<!-- 3D Technologies -->
+<div align="center">
+  <h2 style="color:#FF6B35;">
+    <img src="icons/3d-icon.svg" alt="3D Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle; filter: invert(58%) sepia(81%) saturate(2194%) hue-rotate(360deg) brightness(102%) contrast(101%);"/>
+    <span>3D Technologies</span>
+  </h2>
+  <p>In the dynamic fields of 3D modeling, Virtual Reality (VR), and Augmented Reality (AR), I leverage my expertise to bring digital creations to life. Using cutting-edge tools, I sculpt, render, and animate with precision, crafting immersive VR and AR experiences that seamlessly blend the virtual and real worlds.</p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+</div>
+
 <!-- Github Stats -->
 <div align="center">
-<h2>
+<h2 style="color:#FFFFFF;">
   <img src="icons/github-icon.svg" alt="GitHub Icon" style="width: 25px; height: 25px; margin-left: 10px; vertical-align: middle; filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
   <span>Github Stats</span>
 </h2>
