@@ -67,11 +67,14 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <!-- TypeScript -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <!-- mySQL -->
+  <img src="https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL"/>
   <!-- C++ -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B" alt="C++"/>
   <!-- C# -->
   <img src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
@@ -80,12 +83,14 @@
 <div align="center">
   <h2 style="color:#8a80ff;">
     <img src="icons/framework-icon.svg" alt="Framework Icon" style="width: 25px; height: 25px; margin-left: 20px; vertical-align: middle;"/>
-    <span>Frameworks</span>
+    <span>Frameworks & Technologies</span>
   </h2>
   <p>I work with some frameworks to enhance my development process and create robust applications. Each framework brings unique features that streamline workflows, improve performance, and facilitate collaboration. I’m adept at using these tools to build scalable and maintainable solutions.</p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </div>
 
 <!-- 3D Technologies -->
@@ -109,8 +114,9 @@
 <p>Take a look at my GitHub stats to see how I balance code, creativity, and collaborations! Explore the milestones of my digital journey and see what I've been working on.</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asuarez18&theme=github_dark" alt="Alex's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=asuarez18&theme=merko" alt="Alex's Contribution Streak"/></td>
+       <td width="75%" colspan=2><img style="border: none; width: 100%;" colspan=2 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asuarez18&theme=github_dark" alt="Alex's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="./assets/lamp-and-moths.gif" alt="Lamp"/></td>
+       <!-- <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=asuarez18&theme=merko" alt="Alex's Contribution Streak"/></td> -->
     </tr>
  </table>
  <table align="center" width="100%" height="100%" >
