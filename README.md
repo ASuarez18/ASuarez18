@@ -115,7 +115,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td width="75%" colspan=2><img style="border: none; width: 100%;" colspan=2 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asuarez18&theme=github_dark" alt="Alex's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="./assets/lamp-and-moths.gif" alt="Lamp"/></td>
+       <td width="25%" align="center"><img style="border: none;" src="./assets/lamp-1.gif" width="100%" alt="Dynamic Lamp"/></td>
        <!-- <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=asuarez18&theme=merko" alt="Alex's Contribution Streak"/></td> -->
     </tr>
  </table>
