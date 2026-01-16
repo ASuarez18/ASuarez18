@@ -26,6 +26,14 @@ jobs:
           # Replace the content
           sed -i "//,//c\\n<img src=\"$SELECTED_GIF\" width=\"100%\" alt=\"Dynamic Lamp\" />\n" README.md
 
+          # Define markers and tags
+          START=""
+          END=""
+          NEW_TAG="<img src=\"$SELECTED_GIF\" width=\"100%\" alt=\"Dynamic Lamp\" />"
+
+          # Replace the content
+          sed -i "/$START/,/$END/c\\$START\n$NEW_TAG\n$END" README.md
+
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
