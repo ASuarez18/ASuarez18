@@ -23,9 +23,6 @@ jobs:
           SELECTED_GIF=${GIFS[$RANDOM % ${#GIFS[@]}]}
           echo "Selected gif: $SELECTED_GIF"
 
-          # Replace the content
-          sed -i "//,//c\\n<img src=\"$SELECTED_GIF\" width=\"100%\" alt=\"Dynamic Lamp\" />\n" README.md
-
           # Define markers and tags
           START=""
           END=""
